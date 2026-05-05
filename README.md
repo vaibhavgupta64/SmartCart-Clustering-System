@@ -72,12 +72,3 @@ These clusters enable **data-driven decision-making** for targeted marketing and
 - Enabled targeted marketing strategies  
 - Identified potential churn users  
 
----
-
-## 📷 Sample Output
-
-> Add cluster plots / PCA visualization screenshots here
-
----
-
-## 📂 Project Structure
